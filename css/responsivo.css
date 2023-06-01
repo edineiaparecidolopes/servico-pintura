@@ -1,0 +1,44 @@
+@media screen and  (max-width:1575px) {
+
+
+    .navebar{
+        position: relative;
+    }
+    .menu{
+        display: none;
+    }
+    .logo{
+        margin: 0;
+        text-align: center;
+        
+        
+    }
+    .corpo{
+        padding-top: 200px;
+        text-align: center;
+       flex: 100%;
+       margin-right: 3%;
+       
+    }
+    .img-chamada{
+        text-align: center;
+        margin-right: 5%;
+    }
+    .card{
+        width: 100%;
+    }
+    .whats{
+
+    }
+    .whats img{
+            position: fixed;
+            right: 10px;
+            top:  5px;
+            width: 200px;
+        
+        }
+        .whats img:hover{
+            width: 300px;
+        }
+    }
+
